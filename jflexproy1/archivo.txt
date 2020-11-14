@@ -1,1 +1,5 @@
-string
+//Hola mundo
+int main(){
+	int a = 3;
+	String b = "Carlos";
+}
