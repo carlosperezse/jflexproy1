@@ -1,5 +1,8 @@
-//Hola mundo
 int main(){
-	int a = 3;
-	String b = "Carlos";
+
+	int x =3;
+	while(x<6){
+		int x++;
+	}
+	
 }
